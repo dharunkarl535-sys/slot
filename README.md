@@ -38,7 +38,7 @@ Execute the program using runserver command.
       <h3 align="center">  SLOT TIME TABLE - STUDENT NAME ( ROLL NO. ) </h3>
         <table align="center" border="5" cellpadding="6" cellspacing="2" bgcolor="cyan">
         <tr>
-          <th bgcolor="yellow">Day</th>    
+          <th bgcolor="yellow">Day</th>   
           <th bgcolor="yellow">8-10</th>
           <th bgcolor="yellow">10-12</th>
           <th bgcolor="yellow">12-1</th>
